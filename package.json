@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JOAR-DTV/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.10.2",
     "typescript": "^3.7.5"
   }
 }
